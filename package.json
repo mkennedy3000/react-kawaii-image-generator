@@ -1,0 +1,17 @@
+{
+  "name": "react-kawaii-image-generator",
+  "version": "1.0.0",
+  "description": "image generation api using react-kawaii components",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mkennedy3000@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^1.0.0",
+    "express": "^4.16.4",
+    "react-kawaii": "^0.11.0",
+    "repng": "^3.2.0"
+  }
+}
